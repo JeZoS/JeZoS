@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @JeZoS
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Web stacks
-- 💞️ I’m looking to collaborate on anything
-- 📫 prabhat262111@gmail.com
 
 <!---
 JeZoS/JeZoS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
